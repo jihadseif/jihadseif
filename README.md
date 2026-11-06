@@ -12,11 +12,11 @@ Blue Team and AI security graduate based in Nottingham, UK. I build and evaluate
 
 | | |
 |---|---|
-| [**smote-leakage-ids**](https://github.com/jihadseif-design/smote-leakage-ids) | Oversampling before the train/test split turns a 0.52 macro-F1 intrusion detector into a "0.98" one. A reproducible experiment. |
-| [**Personal website**](https://jihadseif-design.github.io) | Portfolio with an interactive walkthrough of the SLAI-IPS detection layers. |
+| [**smote-leakage-ids**](https://github.com/jihadseif/smote-leakage-ids) | Oversampling before the train/test split turns a 0.52 macro-F1 intrusion detector into a "0.98" one. A reproducible experiment. |
+| [**Personal website**](https://jihadseif.github.io) | Portfolio with an interactive walkthrough of the SLAI-IPS detection layers. |
 
 #### Toolkit
 
 `Python` `scikit-learn` `XGBoost` `imbalanced-learn` `Wazuh` `TheHive` `Shuffle` `Snort` `Suricata` `Wireshark` `MQTT` `Node-RED` `Flask` `Docker` `Linux`
 
-🌐 [jihadseif-design.github.io](https://jihadseif-design.github.io) · 💼 [linkedin.com/in/jihadseif](https://linkedin.com/in/jihadseif)
+🌐 [jihadseif.github.io](https://jihadseif.github.io) · 💼 [linkedin.com/in/jihadseif](https://linkedin.com/in/jihadseif)
