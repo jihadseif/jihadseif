@@ -1,6 +1,6 @@
 ### Hi, I'm Jihad 👋
 
-Blue Team and AI security graduate based in Nottingham, UK. I build and evaluate machine-learning defences for IoT networks, and I care a lot about measuring them honestly.
+Blue Team and AI security graduate based in The UK. I build and evaluate machine-learning defences for IoT networks, and I care a lot about measuring them honestly.
 
 - 🎓 **BSc (Hons) Cyber Security, First Class**, Nottingham Trent University · Exceptional First in the final-year project · two Department of Computer Science prizes (2025/26)
 - 🛡️ **Blue Team (SOC) internship**, Cyber50 Defense · Wazuh, Shuffle SOAR, TheHive, Snort, Suricata, MITRE ATT&CK
