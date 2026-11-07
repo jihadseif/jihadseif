@@ -5,7 +5,7 @@ Blue Team and AI security graduate based in The UK. I build and evaluate machine
 - 🎓 **BSc (Hons) Cyber Security, First Class**, Nottingham Trent University · Exceptional First in the final-year project · two Department of Computer Science prizes (2025/26)
 - 🛡️ **Blue Team (SOC) internship**, Cyber50 Defense · Wazuh, Shuffle SOAR, TheHive, Snort, Suricata, MITRE ATT&CK
 - 🔬 **SLAI-IPS**: a seven-layer AI-driven intrusion prevention system for MQTT smart homes, presented at **ICACIn'26** (Birmingham)
-- 🤖 Currently: security research on multi-tenant AI-agent platforms (prompt injection, tenant isolation, safe action confirmation)
+- 🤖 Currently: designing and implementing security controls for **Nomos**, a multi-tenant platform connecting enterprise AI agents to voice and WhatsApp (prompt injection, human handoff, confirmation of sensitive actions, tenant isolation)
 - 🎯 Looking for SOC / Blue Team / AI security roles and a PhD on robust evaluation of AI security systems
 
 #### Projects
